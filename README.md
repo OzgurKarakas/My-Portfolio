@@ -1,5 +1,5 @@
  # My Portfolio
- ## Front-End Review => https://my-portfolio-ozgur.netlify.app/ 
+ ## Review => https://my-portfolio-ozgur.netlify.app/ 
  
  <img src="./public/img/home1.png" alt="home" style="height: 500px; width:900px;"/>
 
